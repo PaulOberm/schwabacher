@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  version="1.1" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" 
+  xmlns:svgjs="http://svgjs.dev/svgjs" 
+  id="Layer_1" 
+  x="0px" 
+  y="0px" 
+  width="400px" 
+  height="800px" 
+  enable-background="new 0 0 400 800" 
+  xml:space="preserve" 
+  viewBox="0 0 800 400">
+
+  <path 
+    d="M355,50C340,40,420,100,435,115C450,135,435,215,440,485C410,510,340,550,350,500C350,50,350,180,295,110C300, 120,340,20,355,50" 
+    fill="none" 
+    stroke-width="10" 
+    stroke="hsl(265, 55%, 20%)" 
+    stroke-linecap="butt" 
+    transform="matrix(1,5.5e-17,-5e-14,1,-100,-202)" 
+    stroke-dasharray="0 0">
+  </path>
+  <defs>
+    <linearGradient id="SvgjsLinearGradient1000">
+      <stop stop-color="hsl(37, 99%, 67%)" offset="0"></stop>
+      <stop stop-color="hsl(316, 73%, 52%)" offset="1"></stop>
+    </linearGradient>
+  </defs>
+</svg>
