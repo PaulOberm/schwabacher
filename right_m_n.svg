@@ -1,32 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg 
-  xmlns="http://www.w3.org/2000/svg" 
-  version="1.1" 
-  xmlns:xlink="http://www.w3.org/1999/xlink" 
-  xmlns:svgjs="http://svgjs.dev/svgjs" 
-  id="Layer_1" 
-  x="0px" 
-  y="0px" 
-  width="400px" 
-  height="800px" 
-  enable-background="new 0 0 400 800" 
-  xml:space="preserve" 
-  viewBox="0 0 800 400">
-
-  <path 
-    d="M455,90C475,80,420,100,435,115C450,135,435,215,440,470C450,500,530,420,520,470C410,510,340,550,350,500C350,50,390,180,305,110C190,210,320,30,355,0C395,40,490,60,455,90" 
-    fill="none" 
-    stroke-width="10" 
-    stroke="hsl(265, 55%, 20%)" 
-    stroke-linecap="butt" 
-    transform="matrix(1,5.5e-17,-5e-14,1,-100,-202)" 
-    stroke-dasharray="0 0">
-  </path>
-  <defs>
-    <linearGradient id="SvgjsLinearGradient1000">
-      <stop stop-color="hsl(37, 99%, 67%)" offset="0"></stop>
-      <stop stop-color="hsl(316, 73%, 52%)" offset="1"></stop>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 400 400" stroke-width="3" stroke-linecap="round" stroke="black">
+  
+  <line x1="50" x2="95" y1="200" y2="175"/>
+  <line x1="95" x2="95" y1="175" y2="173"/>
+  <path d="M 50 200 C 50 100, 50 110, 30 90" fill="transparent"/>
+  <line x1="30" x2="5" y1="90" y2="105"/>
+  <line x1="5" x2="5" y1="105" y2="100"/>
+  <line x1="5" x2="65" y1="100" y2="60"/>
+  <path d="M 75 105 C 75 175, 75 175, 95 173" fill="transparent"/>
+  <path d="M 75 105 C 100 95, 80 100, 65 60" fill="transparent"/>
 </svg>
