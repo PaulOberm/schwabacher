@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 400 400" stroke-width="3" stroke-linecap="round" stroke="black">
+
+  <path d="M 50 200 C 50 100, 50 110, 30 90" fill="transparent"/>
+  <line x1="30" x2="5" y1="90" y2="105"/>
+  <line x1="5" x2="5" y1="105" y2="100"/>
+  <line x1="5" x2="55" y1="100" y2="70"/>
+  <path d="M 55 70 C 75 100, 75 70, 75 185" fill="transparent"/>
+  <line x1="50" x2="75" y1="200" y2="185"/>
+</svg>
