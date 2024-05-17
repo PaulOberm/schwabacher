@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 400 400" stroke-width="3" stroke-linecap="round" stroke="black">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 275 250" stroke-width="3" stroke-linecap="round" stroke="black">
 
   <line x1="50" x2="75" y1="200" y2="185"/>
   <path d="M 50 200 C 50 100, 50 110, 35 100" fill="transparent"/>
@@ -12,7 +12,7 @@
   <path d="M 125 70 C 145 100, 145 70, 145 185" fill="transparent"/>
   <line x1="120" x2="145" y1="200" y2="185"/>
   
-  <line x1="195" x2="245" y1="200" y2="175"/>
+  <line x1="195" x2="245" y1="200" y2="175" />
   <line x1="245" x2="245" y1="175" y2="173"/>
   <path d="M 195 200 C 195 100, 195 110, 175 90" fill="transparent"/>
   <line x1="175" x2="145" y1="90" y2="105"/>
