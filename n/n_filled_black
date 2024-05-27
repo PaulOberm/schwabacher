@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 190 250" stroke-width="3" stroke-linecap="round" stroke="black">
+
+  <path d="M 60 70 C 75 100, 75 70, 75 185
+           L 50 200
+           M 50 200 C 50 100, 50 110, 35 100
+           L 60 70
+           M 120 200 C 120 100 120 110 100 90 
+           L 75 105
+           L 75 100
+           L 125 70
+  		   M 125 70 C 145 100, 145 70, 145 185
+  		   L 120 200"
+        fill="black"/>
+</svg>
